@@ -1,0 +1,9 @@
+scenario_approach;t_e2e_ms;t_protocol_overhead_ms;t_api_logic_ms;judge_score
+dirty_direct;11007.577;0.004;3972.458;0.987
+dirty_mcp;12039.846;4499.012;0.047;0.971
+multi_dirty_direct;17080.546;0.008;2135.373;0.997
+multi_dirty_mcp;22848.893;10233.11;0.082;0.984
+multi_sunny_direct;13606.45;0.008;2050.668;1.0
+multi_sunny_mcp;23213.712;10258.186;0.087;1.0
+sunny_direct;6813.707;0.002;2026.382;1.0
+sunny_mcp;11290.851;4110.712;0.045;1.0

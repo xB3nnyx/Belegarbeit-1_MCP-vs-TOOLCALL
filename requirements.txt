@@ -1,0 +1,23 @@
+# Core framework
+fastapi>=0.110.0
+uvicorn>=0.29.0
+pydantic>=2.0.0
+
+# LangChain stack
+langchain>=0.1.0
+langchain-core>=0.1.0
+
+# Anthropic stack (Current Benchmark Model)
+langchain-anthropic>=0.1.0
+anthropic>=0.20.0
+
+# MCP stack
+fastmcp>=0.1.0
+mcp>=1.0.0
+
+# HTTP + data
+requests>=2.31.0
+pandas>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
